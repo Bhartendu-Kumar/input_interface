@@ -1,0 +1,71 @@
+
+
+
+deepVOG
+
+point of gaze
+gan
+egocentric
+saliency prediction
+GaazeNet
+pitch and yaw
+focus of attention
+eye gaze transformation function
+transform eye gaze data into screen coordinate system
+gaze screen
+********************************************************||||||||||||| BLOGS  |||||||||||||||||***********************************************
+
+\\best said blogs
+
+https://machinelearningmastery.com/?s=machine+vision&post_type=post&submit=Search
+
+
+
+
+\\ papers with code
+
+https://paperswithcode.com/task/gaze-estimation
+
+https://paperswithcode.com/paper/eye-tracking-for-everyone
+
+https://paperswithcode.com/paper/deep-pictorial-gaze-estimation
+
+https://paperswithcode.com/paper/rt-gene-real-time-eye-gaze-estimation-in
+
+
+\\\\ 3d model but no screen
+
+http://www.pitt.edu/~jeffcohn/biblio/3D-Gaze.pdf
+
+\\\\\\ estimation and dnn eye gaze
+
+https://github.com/mpatacchiola/deepgaze
+
+https://github.com/mpatacchiola/deepgaze/tree/2.0
+
+\\\\\ same prob diff person
+
+https://stackoverflow.com/questions/52902036/person-eye-gaze-detection-identify-where-the-user-is-looking-at-on-a-board
+https://stackoverflow.com/questions/52940347/convert-eye-gaze-pitch-and-yaw-into-screen-coordinates-where-the-person-is-lo
+
+\\\\\ great unity 3d implementation cmu
+
+https://github.com/HugoCMU/gazenet
+
+\ future gan
+https://github.com/Mengmi/deepfuturegaze_gan
+
+
+\\\ 3d model c#
+
+https://github.com/errollw/EyeTab/tree/master/EyeTab_Python
+
+\\\\\egocentric 
+
+https://github.com/hyf015/egocentric-gaze-prediction
+
+\\most starred, fully open
+https://github.com/CSAILVision/GazeCapture
+\\ dee
+
+https://github.com/insomniaccat/mobileEyeGazeEstimation
